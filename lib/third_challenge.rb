@@ -14,5 +14,3 @@ epic_tragedy = {
     }}
 
   end
-  
-
